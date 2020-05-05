@@ -8,4 +8,11 @@ public class GitTest {
         System.out.println("git");
     }
 
+    public void test(){
+        System.out.println("新增方法");
+        System.out.println("新增方法");
+        System.out.println("新增方法");
+        System.out.println("新增方法");
+    }
+
 }
