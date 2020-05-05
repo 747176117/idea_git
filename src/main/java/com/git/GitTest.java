@@ -12,9 +12,6 @@ public class GitTest {
         System.out.println("新增方法");
         System.out.println("新增方法");
         System.out.println("新增方法");
-        System.out.println("新增方法");
-        System.out.println("新增方法");
-        System.out.println("新增方法");
 
 
     }
